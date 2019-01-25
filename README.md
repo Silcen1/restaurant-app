@@ -1,1 +1,1 @@
-# restaurantp-app
+# restaurant-app
